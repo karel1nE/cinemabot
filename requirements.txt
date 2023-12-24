@@ -1,0 +1,17 @@
+# internet
+requests==2.31.0
+beautifulsoup4==4.12.2
+aiohttp==3.8.5
+yarl==1.9.2
+
+# date and time
+tzlocal==5.0.1
+
+# other stuff
+fastapi==0.102.0
+httpx==0.24.1
+
+# types
+types-requests==2.31.0.2
+
+aiogram
